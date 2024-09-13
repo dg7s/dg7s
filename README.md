@@ -1,4 +1,4 @@
-## 3rd year Maths & 1st year CS student at Warsaw University. Passionate about combining mathematical insights with coding skills. Enthusiastic learner and problem solver.
+## 3rd year Maths & 1st year CS student at Warsaw University.
 
 ### My Projects:
 
