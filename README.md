@@ -8,7 +8,7 @@
 - [Deep Neural Networks](https://github.com/dg7s/DeepNeuralNetworks)  
   Introduction to deep learning using PyTorch, Warsaw University.
 
-- [Python Project](https://gitlab.mimuw.edu.pl/dg448617/tools-supporting-data-analysis-in-python/-/tree/master/final_project?ref_type=heads)  
+- [IMDb data Data Analyzer](https://gitlab.mimuw.edu.pl/dg448617/tools-supporting-data-analysis-in-python/-/tree/master/final_project?ref_type=heads)  
   Comprehensive Python project analyzing IMDb data, featuring profiling, unit testing, etc., Warsaw University.
   
 - [OOP in C++](https://github.com/dg7s/object-oriented-programming-cpp)  
