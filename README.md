@@ -20,7 +20,7 @@
 
 - [TensorFlow](https://github.com/dg7s/Deep_learning_tensorflow)  
   Deep learning using TensorFlow.
-  Technologies: Python, TensorFlow, Keras, NumPy, Jupyter Notebook
+  Technologies: Python, TensorFlow, Keras, NumPy
 
 ---
 
