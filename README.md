@@ -24,10 +24,9 @@
   Object-Oriented Programming in C++, University of Warsaw.  
   C++, Standard Template Library
 
-- [TensorFlow](https://github.com/dg7s/Deep_learning_tensorflow)  
-  Deep learning using TensorFlow.  
-  Technologies: Python, TensorFlow, Keras, NumPy
-
+- [Machine Learning](https://github.com/dg7s/Machine-Learning)  
+  Statistical Machine Learning + Deep Neural Networks introduction.
+  
 ---
 
 ### Connect with me:
