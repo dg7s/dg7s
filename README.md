@@ -1,4 +1,4 @@
-## 3rd year Maths & 1st year CS student at Warsaw University.
+##  BSc Mathematics | 3rd year CS, University of Warsaw.
 
 ### My Projects:
 
