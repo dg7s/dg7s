@@ -2,7 +2,7 @@
 
 ### My Projects:
 
-- [Autonomous Quadcopter Control in MuJoCo](https://github.com/dg7s/AutonomousDroneMujoco)
+- [Autonomous Quadcopter Control in MuJoCo](https://github.com/dg7s/AutonomousDroneMujoco)  
   Autonomous quadcopter navigation in MuJoCo, Robot Control, University of Warsaw.
   Technologies:  Python, MuJoCo, NumPy
 
