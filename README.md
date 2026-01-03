@@ -2,6 +2,10 @@
 
 ### My Projects:
 
+- [Autonomous Quadcopter Control in MuJoCo](https://github.com/dg7s/AutonomousDroneMujoco)
+  Autonomous quadcopter navigation in MuJoCo, Robot Control, University of Warsaw.
+  Technologies:  Python, MuJoCo, NumPy
+
 - [Convex Optimization](https://github.com/dg7s/ConvexOptimization)  
   Course work based on *Convex Optimization* by Boyd and Vandenberghe, University of Warsaw.  
   Technologies: Python, NumPy, SciPy, CVXPY
